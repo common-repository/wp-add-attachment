@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-add_attachment\n"
+"POT-Creation-Date: 2016-06-21 19:57+0430\n"
+"PO-Revision-Date: 2016-07-14 11:15+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp_add_attachment.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/config.php:11
+msgid "عملیات با موفقیت انجام شد"
+msgstr "task success complete"
+
+#: admin/config.php:15
+msgid "فایلی برای افزودن یافت نشد"
+msgstr "file not found"
+
+#: admin/config.php:26 admin/mediadir.php:42
+msgctxt "attach_media"
+msgid "مدیریت افزونه"
+msgstr "plugin managment"
+
+#: admin/config.php:30 admin/mediadir.php:46
+msgctxt "attach_media"
+msgid "جستجو در زیر پوشه ها"
+msgstr "search in sub directory"
+
+#: admin/config.php:32 admin/mediadir.php:48
+msgctxt "attach_media"
+msgid "بلی"
+msgstr "yes"
+
+#: admin/config.php:33 admin/mediadir.php:49
+msgctxt "attach_media"
+msgid "خیر"
+msgstr "no"
+
+#: admin/config.php:45 admin/mediadir.php:75
+msgctxt "attach_media"
+msgid "برای جانشینی کلیک کنید"
+msgstr "click for replace"
+
+#: admin/config.php:48 admin/mediadir.php:78
+msgctxt "attach_media"
+msgid "اجرای عملیات"
+msgstr "begin proccess"
+
+#: admin/config.php:50 admin/mediadir.php:80
+msgctxt "attach_media"
+msgid "اجرا"
+msgstr "execute"
+
+#: admin/mediadir.php:10
+msgid "انتقال با موفقیت انجام شد."
+msgstr "move compelete success"
+
+#: admin/mediadir.php:12
+msgid "خطا"
+msgstr "Error"
+
+#: admin/mediadir.php:12
+msgid "در پوشه مدیا"
+msgstr "In media directory"
+
+#: admin/mediadir.php:12
+msgid "وجود دارد یا آدرس انتخاب شده دارای فایل نمیباشد"
+msgstr " exsists or this address has not any file"
+
+#: admin/mediadir.php:53
+msgctxt "attach_media"
+msgid "آدرس پوشه"
+msgstr "Directory Address"
+
+#: wp_add_attachment.php:18
+msgid "پلاگین افزدون به مدیا"
+msgstr "Plugin Add To Media"
+
+#: wp_add_attachment.php:19
+msgid "انتقال به پوشه مدیا"
+msgstr "Move to Media Directory"
+
+#. Plugin Name of the plugin/theme
+msgid "wp-add_attachment"
+msgstr "wp-add_attachment"
+
+#. Description of the plugin/theme
+msgid "انتقال یک پوشه به پوشه مدیا و افزودن فایلها به بخش مدیا وردپرس"
+msgstr ""
+"move a server directory to media directory and add all files to media "
+"section of wordpress"
+
+#. Author of the plugin/theme
+msgid "مبین قاسمپور"
+msgstr "mobin ghasempoor"
